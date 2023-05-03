@@ -1,0 +1,14 @@
+@media (min-width: 800px) {
+    .container {
+      background: url("https://th.bing.com/th/id/OIP.QNk-XWKcNDVL1rvFxaYdmAHaEK?pid=ImgDet&rs=1");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+  @media (max-width: 800px) {
+    .container {
+      background: url("https://i.pinimg.com/originals/fb/a3/73/fba3733bb6e41226f90dbad2cf9086bd.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
